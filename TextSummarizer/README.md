@@ -1,5 +1,6 @@
 # Text Summarizer
-A transformer based Text Summarizer trained on about 36,000 Amazon Software Product Reviews
+A transformer based Text Summarizer trained on about 36,000 Amazon Software Product Reviews <br>
+An executable colab notebook for this project can be found <a href="https://colab.research.google.com/drive/1VR_NgqsEYzc_VPo4pizpPlMHA0lyCAhz?usp=sharing">here</a>
 
 # Sample Conversions
 ```
