@@ -20,4 +20,5 @@ Output: not compatible with anything
 3. Done <br>
 
 # Credits
-1. Tensorflow's article on <a href="https://www.tensorflow.org/tutorials/text/transformer">transformers</a>
+1. Tensorflow's article on <a href="https://www.tensorflow.org/tutorials/text/transformer">transformers</a> <br>
+2. Amazon's <a href="https://nijianmo.github.io/amazon/index.html">Product Reviews Dataset</a>
